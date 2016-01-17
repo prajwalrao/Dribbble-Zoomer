@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Dribbble Extension",
+  "description": "This extension will improve your Dribbble experience",
+  "version": "1.0",
+  "content_scripts":[ {
+      "js": [ "jquery-2.2.0.min.js","extension.js"],
+      "matches": [ "https://dribbble.com/*" ],
+      "run_at": "document_start"
+   } ],
+  "permissions": [ "https://dribbble.com/*" ]
+}
