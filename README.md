@@ -1,2 +1,14 @@
-#Dribbble Zoomer
-Chrome Extension to show HQ shots by default on page load. Supports the new 2016 Dribbble UI.
+Dribbble Zoomer
+-------------------
+Chrome Extension to show HQ shots by default. Supports the new 2016 [Dribbble](http://dribbble.com) UI.
+****
+Install
+==========
+
+ 1. Open chrome://chrome/extensions
+ 2. Download [the .crx](https://github.com/prajwalrao/Dribbble-Zoomer/blob/master/src.crx) (chrome extension) file.
+ 3. Drag and drop it onto the extensions page. You might need to enable Developer mode (checkbox, top-left, same page) to be able to install the extension.
+
+Open any Dribbble shot and enjoy.. :)
+
+**If you found this useful, would appreciate a comment. Cheers!!!** 
