@@ -1,4 +1,4 @@
-Dribbble Zoomer
+Zooom for Dribbble
 -------------------
 Chrome Extension to show HQ shots by default. Supports the new 2016 [Dribbble](http://dribbble.com) UI.
 ****
