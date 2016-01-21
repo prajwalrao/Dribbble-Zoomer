@@ -26,4 +26,4 @@ Example
 
 **And if you have a dribbble Invite to spare, I'd love one!**
 
-[![forthebadge](http://forthebadge.com/images/badges/powered-by-comcast.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
